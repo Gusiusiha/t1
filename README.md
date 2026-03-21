@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <meta http-equiv="refresh" content="0;url=tg://proxy?server=vexori.de&port=443&secret=dd41ffa40980aa1f431b9581676ec75fa7">
